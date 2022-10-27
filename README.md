@@ -32,8 +32,7 @@
 <p align = "center">
 &nbsp;<img align="left" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&locale=en" alt="3mrotaha" />
 
-<img align="right" width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=3mrotaha&" alt="3mrotaha" />
-
+<img align="right" width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=3mrotaha&" alt="3mrotaha" />
 
 </p>
 
