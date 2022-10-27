@@ -7,7 +7,7 @@
 
 
 
-💻 ***About me***
+<h2> 👨‍💻 About me: </h2>
 
 - 🌱 I’m currently learning **Embedded Systems**  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
@@ -19,10 +19,10 @@
 
 - 👨‍💻 All of my projects are available [@3mrotaha](github.com/3mrotaha)
 
-- 💬 Ask me about **C & Embedded C😆**
+- 💬 Ask me about **C & Embedded C 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
-
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mrotaha" alt="3mrotaha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_amr_taha_" target="blank"><img src="https://img.shields.io/twitter/follow/_amr_taha_?logo=twitter&style=for-the-badge" alt="_amr_taha_" /></a> </p>
