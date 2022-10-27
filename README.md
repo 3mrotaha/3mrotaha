@@ -69,12 +69,10 @@
 </p>
 
 <p align="left">
-    <img width ="500px" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> 
+    <img width ="400px" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&layout=compact" alt="GitHub Stats" /> 
 </p>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&layout=compact)
 </div>
 
 
