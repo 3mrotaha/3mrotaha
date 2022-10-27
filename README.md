@@ -19,8 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_amr_taha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_amr_taha_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amr-m-taha-673b3b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amr-m-taha-673b3b1ba/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amr.m.taha.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amr.m.taha.54" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amr-m-taha-673b3b1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amr-m-taha-673b3b1ba/" height="30" width="40" /></a>
+<a href="https://fb.com/amr.m.taha.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amr.m.taha.54" height="30" width="40" /></a>
+</p>
+
+<br/>
+<h3 align="left">Problem solving accounts:</h3>
+<p>
 <a href="https://www.hackerrank.com/tamr4512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tamr4512" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amrmtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amrmtaha" height="30" width="40" /></a>
 </p>
