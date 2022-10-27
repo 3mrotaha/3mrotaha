@@ -64,14 +64,18 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mrotaha&" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mrotaha&" alt="GitHub Stats" /> 
+</p>
+
+<p align="left">
+    <img width ="500px" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&include_all_commits=true" alt="GitHub Stats" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&layout=compact" alt="GitHub Stats" /> 
+</p>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&layout=compact)
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
