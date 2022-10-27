@@ -30,9 +30,9 @@
 </div>
 <div>
 <p align = "center">
-&nbsp;<img  width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&locale=en" alt="3mrotaha" />
+&nbsp;<img align="left" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&locale=en" alt="3mrotaha" />
 
-<img  width="450" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=3mrotaha&" alt="3mrotaha" />
+<img align="right" width="400" height="350" src="https://github-readme-streak-stats.herokuapp.com/?user=3mrotaha&" alt="3mrotaha" />
 </p>
 <br/><br/>
 </div>
