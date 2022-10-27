@@ -7,11 +7,21 @@
 
 
 
--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
+💻 ***About me***
 
 - 🌱 I’m currently learning **Embedded Systems**  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 📫 How to reach me **tamr4512@gmail.com**
+
+- 👯 I’m looking to collaborate on **Embedded system projects**
+
+- 🤝 I’m looking for help with **C , C++, MCUs, RTOS**
+
+- 👨‍💻 All of my projects are available [@3mrotaha](github.com/3mrotaha)
+
+- 💬 Ask me about **C & Embedded C😆**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mrotaha" alt="3mrotaha" /></a> </p>
 
