@@ -25,8 +25,8 @@
 <a href="https://codeforces.com/profile/amrmtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amrmtaha" height="30" width="40" /></a>
 </p>
 
-<div><br/><br/>
-<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&show_icons=true&locale=en&layout=compact" alt="3mrotaha" /></p><br/><br/>
+<div>
+<p align = "center"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&show_icons=true&locale=en&layout=compact" alt="3mrotaha" /></p>
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&locale=en" alt="3mrotaha" /></p>
 
