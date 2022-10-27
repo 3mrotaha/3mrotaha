@@ -53,7 +53,7 @@
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=3mrotaha&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=3mrotaha&show_icons=true&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
