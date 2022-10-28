@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **C , C++, MCUs, RTOS**
 
-- 👨‍💻 All of my projects are available [@3mrotaha](https://github/3mrotaha)
+- 👨‍💻 All of my projects are available [@3mrotaha](https://github.com/3mrotaha)
 
 - 💬 Ask me about **C & Embedded C 😆**
 
