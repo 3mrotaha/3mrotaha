@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amr Taha</h1>
-<h3 align="center">I'm an Embedded System Engineer</h3>
+<h3 align="center">I'm an Embedded Software Engineer</h3>
 
 
 
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Embedded system projects**
 
-- 🤝 I’m looking for help with **C , C++, MCUs, RTOS**
+- 🤝 I’m looking for help with **C , C++, Python, MCUs, FreeRTOS**
 
 - 👨‍💻 All of my projects are available [@3mrotaha](https://github.com/3mrotaha)
 
