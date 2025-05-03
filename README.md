@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amr Taha</h1>
-<h3 align="center">I'm a student at Computer and Control System Engineering at MU</h3>
+<h3 align="center">I'm an Embedded System Engineer</h3>
 
 
 
 <h2> 👨‍💻 About me: </h2>
 
-- 🌱 I’m currently learning **Embedded Systems**  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m always learning **Embedded Systems**  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 📫 How to reach me **tamr4512@gmail.com**
+- 📫 How to reach me **amr.taha1261@gmail.com**
 
 - 👯 I’m looking to collaborate on **Embedded system projects**
 
@@ -22,6 +22,8 @@
 - 💬 Ask me about **C & Embedded C 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
+
+- 🧑‍💼 Also see my little business portfolio [@Bitwise](https://3mrotaha.github.io/bitwise/)
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mrotaha" alt="3mrotaha" /></a> </p>
 
